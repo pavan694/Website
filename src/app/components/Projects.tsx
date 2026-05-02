@@ -15,7 +15,7 @@ const projects = [
       "Targeted segment insights for sales prioritization",
     ],
     featured: true,
-    link: "https://github.com/Pavan",
+    link: "https://github.com/pavan694",
     color: "amber",
   },
   {
@@ -31,7 +31,7 @@ const projects = [
       "Real-time Looker Studio dashboards for forecasting",
     ],
     featured: true,
-    link: "https://github.com/Pavan",
+    link: "https://github.com/pavan694",
     color: "emerald",
   },
 ];
@@ -145,7 +145,7 @@ export default function Projects() {
         {/* GitHub CTA */}
         <div className="reveal mt-10 flex items-center justify-center">
           <a
-            href="https://github.com/Pavan"
+            href="https://github.com/pavan694"
             target="_blank"
             rel="noreferrer"
             className="font-mono text-xs text-slate-500 tracking-widest uppercase hover:text-amber-300 transition-colors border border-[#242420] hover:border-amber-400/30 px-6 py-3"
