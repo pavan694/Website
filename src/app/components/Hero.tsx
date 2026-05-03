@@ -45,7 +45,7 @@ export default function Hero() {
             <span className="block text-white">Pavan</span>
             <span className="block text-white">Jinugu</span>
             <span className="block text-amber-400 mt-1 text-4xl md:text-5xl lg:text-6xl">
-              Data Analyst
+              Data Analyst (Sales & Business Analytics)
             </span>
           </h1>
         </div>
