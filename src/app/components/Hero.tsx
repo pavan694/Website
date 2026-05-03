@@ -45,7 +45,7 @@ export default function Hero() {
             <span className="block text-white">Pavan</span>
             <span className="block text-white">Jinugu</span>
             <span className="block text-amber-400 mt-1 text-4xl md:text-5xl lg:text-6xl">
-              Data Analyst (Sales & Business Analytics)
+              Data Analyst | Business Analytics 
             </span>
           </h1>
         </div>
@@ -55,9 +55,9 @@ export default function Hero() {
           className="font-body text-slate-300 text-lg md:text-xl max-w-xl leading-relaxed mb-4"
           style={{ animation: "fadeUp 0.7s ease 0.4s both" }}
         >
-          I turn messy pipelines into clean insights —{" "}
-          <span className="text-amber-200">SQL queries, Python models, and Power BI dashboards</span>{" "}
-          that give sales teams the edge to close faster.
+          I turn complex data into actionable insights —{" "}
+<span className="text-amber-200">SQL, Python, and Power BI solutions</span>{" "}
+that improve decision-making, optimize performance, and drive measurable business outcomes.
         </p>
 
         <p
@@ -87,7 +87,7 @@ export default function Hero() {
             GitHub ↗
           </a>
           <a
-            href="https://linkedin.com/in/Pavan"
+            href="https://linkedin.com/in/Pavan694"
             target="_blank"
             rel="noreferrer"
             className="px-6 py-3 border border-[#2e2e29] text-slate-300 font-mono text-xs tracking-widest uppercase hover:border-amber-400/40 hover:text-amber-300 transition-all duration-200"
